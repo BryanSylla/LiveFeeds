@@ -1,0 +1,10 @@
+.footer{
+	text-align: center;
+	margin-top: -30px;
+	background-color: darkblue;
+	height: 44px;
+	font-family: 'Poiret One', cursive;
+	font-weight: bold;
+	color: white;
+	padding: 4px;
+}
