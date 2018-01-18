@@ -1,7 +1,7 @@
 import axios from "axios";
 
 var config = {
-  headers: {"X-Mashape-Key": "xC1rj0IO1mshhI9BZFyCyphU6wCp1cn1GAjsnLtxZGSOdFC8T",
+  headers: {"X-Mashape-Key": "BxC1rj0IO1mshhI9BZFyCyphU6wCp1cn1GAjsnLtxZGSOdFC8T",
             "X-Mashape-Host": "spoonacular-recipe-food-nutrition-v1.p.mashape.com"}
 };
 export default {
